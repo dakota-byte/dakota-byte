@@ -5,8 +5,8 @@ I’m a sophomore at Stony Brook University studying computer science with an in
 * 🌍  I'm based in Queens, New York.
 * 🏫  and go to school on Long Island!
 * ✉️  You can contact me on [Linkedin](https://www.linkedin.com/in/dakota-levermann/)
-* 🧠  Mastering C & Python (trying to at least...)
-* ⚡  Currently interested in Networking and Malware!
+* 🧠  Avid C & Python enjoyer
+* ⚡  Currently interested in too much!
 
 ### Skills
 
