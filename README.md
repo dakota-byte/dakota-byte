@@ -1,12 +1,15 @@
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I’m a sophomore at Stony Brook University studying computer science with an interest in cybersecurity. 
+hey! 
+
+I’m a Junior at Stony Brook University studying Computer Science. I'm also a [CodePath](https://www.codepath.org/) Tech Fellow, and going through the [Breakthrough Tech AI](https://www.breakthroughtech.org/programs/the-ai-program/) sequence, exploring what piques my interest :)
 
 * 🌍  I'm based in Queens, New York.
 * 🏫  and go to school on Long Island!
 * ✉️  You can contact me on [Linkedin](https://www.linkedin.com/in/dakota-levermann/)
 * 🧠  Avid C & Python enjoyer
-* ⚡  Currently interested in too much!
+* 👨‍🍳  I've been dabbling in cooking here and there
+* ⚡  Looking to break into a Cybersecurity career!
 
 ### Skills
 
