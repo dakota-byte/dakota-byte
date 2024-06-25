@@ -2,7 +2,7 @@
 
 hey! 
 
-I’m a Junior at Stony Brook University studying Computer Science. I'm also a [CodePath](https://www.codepath.org/) Tech Fellow, and going through the [Breakthrough Tech AI](https://www.breakthroughtech.org/programs/the-ai-program/) sequence, exploring what piques my interest :)
+I’m a Junior at Stony Brook University studying Computer Science. I'm also a [CodePath](https://www.codepath.org/) Tech Fellow, and a Fellow of Cornell University's [Breakthrough Tech AI](https://www.breakthroughtech.org/programs/the-ai-program/) sequence.
 
 * 🌍  I'm based in Queens, New York.
 * 🏫  and go to school on Long Island!
