@@ -2,13 +2,11 @@
 
 hey! 
 
-I’m a Junior at Stony Brook University studying Computer Science. I'm also a [CodePath](https://www.codepath.org/) Tech Fellow, and a Fellow of Cornell University's [Breakthrough Tech AI](https://www.breakthroughtech.org/programs/the-ai-program/) sequence.
+I’m a Junior at Stony Brook University studying Computer Science, and a [CodePath](https://www.codepath.org/) Tech Fellow.
 
 * 🌍  I'm based in Queens, New York.
 * 🏫  and go to school on Long Island!
 * ✉️  You can contact me on [Linkedin](https://www.linkedin.com/in/dakota-levermann/)
-* 👨‍🍳  I've enjoy to cook as well!
-* ⚡  Looking to break into a Cybersecurity career!
 
 ### Skills
 
