@@ -2,17 +2,7 @@
 
 hey! 
 
-I’m a Junior at Stony Brook University studying Computer Science, and a [CodePath](https://www.codepath.org/) Tech Fellow.
+I’m a Junior at Stony Brook University studying Computer Science with an interest in Cybersecurity & Privacy.
 
-* 🌍  I'm based in Queens, New York.
-* 🏫  and go to school on Long Island!
+* 🌍  I'm based in New York.
 * ✉️  You can contact me on [Linkedin](https://www.linkedin.com/in/dakota-levermann/)
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer">
