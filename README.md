@@ -1,8 +1,15 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-hey! 
+<div align="center">
+	<h3><samp> ☃️ Hi 👋, I'm Dakota 🍊 </samp></h3> 
+</div>
 
-I’m a Junior at Stony Brook University studying Computer Science with an interest in Cybersecurity & Privacy.
-
-* 🌍  I'm based in New York.
-* ✉️  You can contact me on [Linkedin](https://www.linkedin.com/in/dakota-levermann/)
+<div align="center">
+	<p>Computer Science Student interested in Cybersecurity<br><br><a href="https://dakotabyte.com/about/">click here for an about me</a> | <a href="https://www.linkedin.com/in/dakota-levermann/">click here for Linkedin</a></p>
+	<hr/>
+		<table align="center">
+				<tr>
+					<td><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakota-byte&text_color=9f9f9f&bg_color=00000000&langs_count=6&layout=compact&hide=css,html,shell,dockerfile,powershell,markdown,pug,roff,mdx" /></td>
+					<!-- <td><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dakota-byte&count_private=true&show=prs_merged&text_color=9f9f9f&bg_color=00000000&hide=stars,contrib&include_all_commits=true&show_icons=true&number_format=long" /></td> -->
+				</tr>
+		</table>
+</div>
